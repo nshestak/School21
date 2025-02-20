@@ -10,6 +10,7 @@
 | [Day_01](Data_Science_Bootcamp/Day01) | Базовые знания о синтаксисе и сематики Python | Python |
 | [Day_05](Data_Science_Bootcamp/Day01) | Базовые знания Pandas | Python, Pandas |
 | [Day_06](Data_Science_Bootcamp/Day06) | Базовые навыки SQL | SQL, Pandas, Python |
+| [Day_07](Data_Science_Bootcamp/Day07) | Визуализация данных | Matplotlib, Seaborn, Plotly
 
 ## Machine Learning
 
