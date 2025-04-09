@@ -11,7 +11,8 @@
 | [Day_05](Data_Science_Bootcamp/Day01) | Базовые знания Pandas | Python, Pandas |
 | [Day_06](Data_Science_Bootcamp/Day06) | Базовые навыки SQL | SQL, Pandas, Python |
 | [Day_07](Data_Science_Bootcamp/Day07) | Визуализация данных | Python, Matplotlib, Seaborn, Plotly |
-| [Day_08](Data_Science_Bootcamp/Day08) | Задачи по ML на Python | Python, Pandas, NumPy, Matplotlib, Scikit-learn
+| [Day_08](Data_Science_Bootcamp/Day08) | Задачи по ML (LogRegression, SVM, DecisionTree, RandomForest, Multiclass, OneHotEncoder, Crossvalidation, GridSearchCV, KFold, Clustering, KMeans, DBSCAN | Python, Pandas, NumPy, Matplotlib, Scikit-learn |
+| [Day_09](Data_Science_Bootcamp/Day09) | Задачи по ML (Regularization, GridSearchCV, Metrics, Ensembles, Pipelines) | Python, Pandas, NumPy, Matplotlib, Scikit-learn |
 
 ## Machine Learning
 
