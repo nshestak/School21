@@ -8,10 +8,11 @@
 |----------------- | -------- | ---- |
 | [Day_00](Data_Science_Bootcamp/Day00)| Использовать curl, sort, uniq, jq, sed и cat для сбора и предварительной обработки данных. | Bash |
 | [Day_01](Data_Science_Bootcamp/Day01) | Базовые знания о синтаксисе и сематики Python | Python |
+| [Day_02](Data_Science_Bootcamp/Day02) | Базовые знания ООП в Python | Python |
 | [Day_05](Data_Science_Bootcamp/Day01) | Базовые знания Pandas | Python, Pandas |
 | [Day_06](Data_Science_Bootcamp/Day06) | Базовые навыки SQL | SQL, Pandas, Python |
 | [Day_07](Data_Science_Bootcamp/Day07) | Визуализация данных | Python, Matplotlib, Seaborn, Plotly |
-| [Day_08](Data_Science_Bootcamp/Day08) | Задачи по ML (LogRegression, SVM, DecisionTree, RandomForest, Multiclass, OneHotEncoder, Crossvalidation, GridSearchCV, KFold, Clustering, KMeans, DBSCAN | Python, Pandas, NumPy, Matplotlib, Scikit-learn |
+| [Day_08](Data_Science_Bootcamp/Day08) | Задачи по ML (LogRegression, SVM, DecisionTree, RandomForest, Multiclass, OneHotEncoder, Crossvalidation, GridSearchCV, KFold, Clustering, KMeans, DBSCAN) | Python, Pandas, NumPy, Matplotlib, Scikit-learn |
 | [Day_09](Data_Science_Bootcamp/Day09) | Задачи по ML (Regularization, GridSearchCV, Metrics, Ensembles, Pipelines) | Python, Pandas, NumPy, Matplotlib, Scikit-learn |
 
 ## Machine Learning
